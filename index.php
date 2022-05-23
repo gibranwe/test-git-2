@@ -11,5 +11,9 @@
     <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque culpa quaerat illum optio praesentium. Explicabo, suscipit ex excepturi animi minus cum, corporis voluptate eius saepe quidem odit dolorem ea velit.
     </p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
